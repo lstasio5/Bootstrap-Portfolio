@@ -35,7 +35,7 @@ h2,
 h3 {
   font-family: Georgia, Times, "Times New Roman", serif;
   font-weight: 700;
-  color: #4aaaa5;
+  color: lightgoldenrodyellow;
 }
 
 h1 {
@@ -71,10 +71,10 @@ h3 {
   font-size: 30px;
   font-weight: 700;
   line-height: 90px;
-  color: #ffffff;
+  color: darkgoldenrod;
   text-align: center;
   text-decoration: none;
-  background: #4aaaa5;
+  background: lightgoldenrodyellow;
 }
 
 nav {
