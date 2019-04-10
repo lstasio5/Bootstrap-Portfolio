@@ -6,9 +6,6 @@ body {
   background: url("../images/concrete_seamless.png");
 }
 
-* {
-  box-sizing: border-box;
-}
 
 /* general */
 
@@ -71,10 +68,10 @@ h3 {
   font-size: 30px;
   font-weight: 700;
   line-height: 90px;
-  color: darkgoldenrod;
+  color: 00FFFF;
   text-align: center;
   text-decoration: none;
-  background: lightgoldenrodyellow;
+  background: aquamarine;
 }
 
 nav {
@@ -158,13 +155,13 @@ h3, h2 {
   position: absolute;
   bottom: 20px;
   width: 100%;
-  padding: 15px;
+  padding: 5px;
   margin-bottom: 0;
   font-weight: 300;
   line-height: 30px;
-  color: #ffffff;
+  color:00FFFF ;
   text-align: center;
-  background: #4aaaa5;
+  background: aquamarine;
   border-bottom: 0;
 }
 
@@ -178,7 +175,7 @@ h3, h2 {
 
 /* contact page */
 
-#contact-form ul {
+/*#contact-form ul {
   margin-bottom: 20px;
 }
 
